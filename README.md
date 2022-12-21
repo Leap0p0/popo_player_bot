@@ -28,7 +28,7 @@ A discord bot to watch the number of player on your FiveM server
 * Put it in your server resources folder.
 
 ## Installation
-Add ``ensure popo_gang`` in the **server.cfg** file.
+Add ``ensure popo_player_bot`` in the **server.cfg** file.
 
 ## Crédits
 
